@@ -1,9 +1,8 @@
-# HF_Bias-Gee
-HF Bias Tee 
+# HF Bias-Tee
 
 Designed in KiCAD V9. 
 
-This is my first attempt to design a board. I'll post some results of HF testing.
+This is my first attempt to design a board. I'll post some results after HF testing.
 
 ## References
 - [Started as - https://github.com/zleffke/kicad_bias_tee](https://github.com/zleffke/kicad_bias_tee)
