@@ -1,0 +1,12 @@
+### Footprint positions - created on Thu 22 May 2025 12:43:38 PM CDT ###
+### Printed by KiCad version 7.0.11-7.0.11~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                               PosX       PosY       Rot  Side
+C1        0.1uF     0805                              132.0800  -103.5050  180.0000  top
+C2        0.1uF     0805                              132.0800   -97.1550  180.0000  top
+J1        RF        SMA_Amphenol_132134_Vertical      125.0950  -103.5050    0.0000  top
+J2        RF+DC     SMA_Amphenol_132134_Vertical      141.6050  -103.5050    0.0000  top
+J4        DC        PinSocket_1x02_P2.54mm_Vertical   143.5100   -88.9000  180.0000  top
+L1        4.7uH     L_1008_2520Metric                 134.6200  -100.3300  -90.0000  top
+## End

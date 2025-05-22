@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1,C2";"0805";2;"0.1uF";;;
+2;"J1";"SMA_Amphenol_132134_Vertical";1;"RF";;;
+3;"J2";"SMA_Amphenol_132134_Vertical";1;"RF+DC";;;
+4;"J4";"PinSocket_1x02_P2.54mm_Vertical";1;"DC";;;
+5;"L1";"L_1008_2520Metric";1;"4.7uH";;;

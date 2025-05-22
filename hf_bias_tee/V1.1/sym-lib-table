@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hf_bias_tee-rescue")(type "KiCad")(uri "${KIPRJMOD}/hf_bias_tee-rescue.kicad_sym")(options "")(descr ""))
+)
